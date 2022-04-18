@@ -16,11 +16,13 @@
 
 ![alt text](https://github.com/AkshaevNikita/Redis/blob/main/pic7.png?raw=true)
 
+С помощью python сгенерируем данные и загрузим в redis.
+
+![alt text](https://github.com/AkshaevNikita/Redis/blob/main/pic10.png?raw=true)
+
 ![alt text](https://github.com/AkshaevNikita/Redis/blob/main/pic8.png?raw=true)
 
 ![alt text](https://github.com/AkshaevNikita/Redis/blob/main/pic9.png?raw=true)
-
-![alt text](https://github.com/AkshaevNikita/Redis/blob/main/pic10.png?raw=true)
 
 ![alt text](https://github.com/AkshaevNikita/Redis/blob/main/pic11.png?raw=true)
 
