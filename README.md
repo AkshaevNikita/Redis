@@ -1,6 +1,6 @@
 # Redis
 
-Для начала поставим redis через docker и запустим через redis-insight.
+Для начала поставим redis через docker и запустим redis-insight.
 
 ![alt text](https://github.com/AkshaevNikita/Redis/blob/main/pic1.png?raw=true)
 
