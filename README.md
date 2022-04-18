@@ -46,6 +46,10 @@
 
 ![alt text](https://github.com/AkshaevNikita/Redis/blob/main/pic14.png?raw=true)
 
-И мы видим, что 
+И мы видим, что STATUS EXITED(1), что означает, что образы не запущены, значит где-то произошла ошибка, я не пойму где.
 
 ![alt text](https://github.com/AkshaevNikita/Redis/blob/main/pic15.png?raw=true)
+
+Далее попытки запустить cluster create тщетны.
+
+![alt text](https://github.com/AkshaevNikita/Redis/blob/main/pic16.png?raw=true)
