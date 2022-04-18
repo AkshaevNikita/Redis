@@ -38,7 +38,7 @@
 
 ![alt text](https://github.com/AkshaevNikita/Redis/blob/main/pic13.png?raw=true)
 
-Далее создал конфигурационные файлы для каждого узла, отличие каждого заключается только в номемре порта.
+Далее создал конфигурационные файлы для каждого узла, отличие каждого заключается только в номере порта.
 
 ![alt text](https://github.com/AkshaevNikita/Redis/blob/main/conf.png?raw=true)
 
