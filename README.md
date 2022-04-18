@@ -22,14 +22,30 @@
 
 ![alt text](https://github.com/AkshaevNikita/Redis/blob/main/pic8.png?raw=true)
 
+Измерим время вставки данных, 40 Мб данных вставилось за 3.928 сек.
+
 ![alt text](https://github.com/AkshaevNikita/Redis/blob/main/pic9.png?raw=true)
+
+Измерим время получения элемента (ключ в конце) -- 23 мс 
 
 ![alt text](https://github.com/AkshaevNikita/Redis/blob/main/pic11.png?raw=true)
 
+Измерим время получения элемента (ключ в середине) -- 16 мс
+
 ![alt text](https://github.com/AkshaevNikita/Redis/blob/main/pic12.png?raw=true)
+
+Измерим время получения элемента (ключ в начале) -- 13 мс
 
 ![alt text](https://github.com/AkshaevNikita/Redis/blob/main/pic13.png?raw=true)
 
+Далее создал конфигурационные файлы для каждого узла, отличие каждого заключается только в номемре порта.
+
+![alt text](https://github.com/AkshaevNikita/Redis/blob/main/conf.png?raw=true)
+
+Далее запускаем образы наших будущих нод через докер.
+
 ![alt text](https://github.com/AkshaevNikita/Redis/blob/main/pic14.png?raw=true)
+
+И мы видим, что 
 
 ![alt text](https://github.com/AkshaevNikita/Redis/blob/main/pic15.png?raw=true)
